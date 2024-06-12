@@ -1,0 +1,13 @@
+alpine
+s c
+Personal Name                     = <No Value Set: using "root">                                    
+User Domain                       = cock.li                                                         
+SMTP Server (for sending)         = mail.cock.li:587/tls/user=name@cock.li                      
+NNTP Server (for news)            = <No Value Set>                                                  
+Inbox Path                        = {mail.cock.li:993/ssl/user=name@cock.li}inbox 
+s l
+Nickname  : Mail
+Server    : mail.cock.li:993/ssl/user=alpha24@cock.li
+Path      : 
+View      : 
+
