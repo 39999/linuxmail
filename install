@@ -7,7 +7,7 @@ NNTP Server (for news)            = <No Value Set>
 Inbox Path                        = {mail.cock.li:993/ssl/user=name@cock.li}inbox 
 s l
 Nickname  : Mail
-Server    : mail.cock.li:993/ssl/user=alpha24@cock.li
+Server    : mail.cock.li:993/ssl/user=name@cock.li
 Path      : 
 View      : 
 
